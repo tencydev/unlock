@@ -24,8 +24,8 @@
 &lt;div style=&#34;padding: 1.4rem; border-radius: 1rem; background: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.08); margin: 1.5rem 0;&#34;&gt;
 &lt;h3 id=&#34;-支持范围&#34;&gt;✅ 支持范围
 &lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;iOS 固件&lt;/strong&gt;：12.0 ~ 18.5 &amp;amp; 26 Beta3&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;iPhone&lt;/strong&gt;：11 ~ 16 Pro Max&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;iOS 固件&lt;/strong&gt;：18.6+ ～ 26.0&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;iPhone&lt;/strong&gt;：XS ~ 17 Pro Max&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;iPad&lt;/strong&gt;：全系列（含 Pro、Air、Mini）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
@@ -41,9 +41,9 @@
   &lt;div style=&#34;display:flex; align-items:flex-start; gap:0.5rem;&#34;&gt;
     &lt;span style=&#34;font-weight:bold; font-size:1.2rem; color:#3b82f6;&#34;&gt;2️⃣&lt;/span&gt;
     &lt;div&gt;
-      &lt;strong&gt;下载固件：&lt;/strong&gt;iOS 镜像（26.0 Beta 3 — 23A5287g）&lt;br&gt;
-      &lt;span style=&#34;margin-left:1.5rem; display:block;&#34;&gt;支持版本：iOS 17.0.1 ~ 18.5、18.6 Beta 1-3、26 Beta 1-3&lt;/span&gt;
-      &lt;span style=&#34;margin-left:1.5rem; display:block; margin-top:0.3rem;&#34;&gt;⭐ 推荐：&lt;strong&gt;iOS 26 Beta 3&lt;/strong&gt;&lt;/span&gt;
+      &lt;strong&gt;下载固件：&lt;/strong&gt;iOS 镜像（18.6+ ～ 26.0）&lt;br&gt;
+      &lt;span style=&#34;margin-left:1.5rem; display:block;&#34;&gt;支持版本：iOS 26.0&lt;/span&gt;
+      &lt;span style=&#34;margin-left:1.5rem; display:block; margin-top:0.3rem;&#34;&gt;⭐ 推荐：&lt;strong&gt;iOS 26 &lt;/strong&gt;&lt;/span&gt;
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div style=&#34;display:flex; align-items:flex-start; gap:0.5rem;&#34;&gt;
@@ -92,10 +92,11 @@
 &lt;div style=&#34;padding: 1.4rem; border-radius: 1rem; background: #f5f7fa; box-shadow: 0 4px 12px rgba(0,0,0,0.05); margin: 1.5rem 0;&#34;&gt;
 &lt;h3 id=&#34;ℹ-绕后说明&#34;&gt;ℹ️ 绕后说明
 &lt;/h3&gt;&lt;div style=&#34;display:grid; grid-template-columns:minmax(0, 1fr); gap:0.6rem; margin-top:0.5rem;&#34;&gt;
-&lt;div style=&#34;background:#fff; padding:0.8rem 1rem; border-left:4px solid #f87171; border-radius:0.6rem; box-shadow:0 2px 6px rgba(0,0,0,0.03);&#34;&gt;&lt;span style=&#34;color:#f87171;&#34;&gt;🔹&lt;/span&gt; &lt;strong&gt;FaceTime 不可用&lt;/strong&gt;&lt;/div&gt;
-&lt;div style=&#34;background:#fff; padding:0.8rem 1rem; border-left:4px solid #f87171; border-radius:0.6rem; box-shadow:0 2px 6px rgba(0,0,0,0.03);&#34;&gt;&lt;span style=&#34;color:#f87171;&#34;&gt;🔹&lt;/span&gt; &lt;strong&gt;无法接收推送通知&lt;/strong&gt;&lt;/div&gt;
+&lt;div style=&#34;background:#fff; padding:0.8rem 1rem; border-left:4px solid #f87171; border-radius:0.6rem; box-shadow:0 2px 6px rgba(0,0,0,0.03);&#34;&gt;&lt;span style=&#34;color:#f87171;&#34;&gt;✅&lt;/span&gt; &lt;strong&gt;iCloud&amp;APPstore正常使用&lt;/strong&gt;&lt;/div&gt;
+&lt;div style=&#34;background:#fff; padding:0.8rem 1rem; border-left:4px solid #f87171; border-radius:0.6rem; box-shadow:0 2px 6px rgba(0,0,0,0.03);&#34;&gt;&lt;span style=&#34;color:#f87171;&#34;&gt;✅&lt;/span&gt; &lt;strong&gt;消息推送通知&lt;/strong&gt;&lt;/div&gt;
 &lt;div style=&#34;background:#fff; padding:0.8rem 1rem; border-left:4px solid #f87171; border-radius:0.6rem; box-shadow:0 2px 6px rgba(0,0,0,0.03);&#34;&gt;&lt;span style=&#34;color:#f87171;&#34;&gt;🔹&lt;/span&gt; &lt;strong&gt;不可刷机&lt;/strong&gt;&lt;/div&gt;
 &lt;div style=&#34;background:#fff; padding:0.8rem 1rem; border-left:4px solid #f87171; border-radius:0.6rem; box-shadow:0 2px 6px rgba(0,0,0,0.03);&#34;&gt;&lt;span style=&#34;color:#f87171;&#34;&gt;🔹&lt;/span&gt; &lt;strong&gt;不可还原设备&lt;/strong&gt;&lt;/div&gt;
+&lt;div style=&#34;background:#fff; padding:0.8rem 1rem; border-left:4px solid #f87171; border-radius:0.6rem; box-shadow:0 2px 6px rgba(0,0,0,0.03);&#34;&gt;&lt;span style=&#34;color:#f87171;&#34;&gt;🔹&lt;/span&gt; &lt;strong&gt;注册后再次绕过免费&lt;/strong&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;p style=&#34;margin-top:0.8rem;&#34;&gt;请用户在解锁后注意以上限制，确保正常使用。&lt;/p&gt;
 &lt;/div&gt;
