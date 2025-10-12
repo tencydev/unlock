@@ -24,16 +24,27 @@
 &lt;div style=&#34;padding: 1.4rem; border-radius: 1rem; background: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.08); margin: 1.5rem 0;&#34;&gt;
 &lt;h3 id=&#34;-支持范围&#34;&gt;✅ 支持范围
 &lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;iOS 固件&lt;/strong&gt;：18.6+ ～ 26.0&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;iPhone&lt;/strong&gt;：XS ~ 17 Pro Max&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;iPad&lt;/strong&gt;：全系列（含 Pro、Air、Mini）&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;iOS 固件&lt;/strong&gt;：18.6+ ～ 26.1&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;iPhone&lt;/strong&gt;：XS ~ 17 Pro Max&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;iPad&lt;/strong&gt;：全系列（含 Pro、Air、Mini）&lt;/p&gt;
+&lt;p&gt;✅ &lt;strong&gt;仅支持&lt;/strong&gt;：外版iPhone &amp;amp; iPad&lt;/p&gt;
+&lt;p&gt;✅ &lt;strong&gt;仅支持&lt;/strong&gt;：手机绕游戏机&lt;/p&gt;
+&lt;p&gt;✅ &lt;strong&gt;仅支持&lt;/strong&gt;：国行iPad Wi-Fi版&lt;/p&gt;
+&lt;p&gt;❌ &lt;strong&gt;不支持&lt;/strong&gt;：手机打电话&lt;/p&gt;
+&lt;p&gt;❌ &lt;strong&gt;不支持&lt;/strong&gt;国行手机游戏机（测试中&lt;/p&gt;
+&lt;p&gt;❌ &lt;strong&gt;不支持&lt;/strong&gt;：国行iPad 蜂窝版&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;hr&gt;
 &lt;div style=&#34;padding: 1.4rem; border-radius: 1rem; background: #f5f7fa; box-shadow: 0 4px 12px rgba(0,0,0,0.06); margin: 1.5rem 0;&#34;&gt;
 &lt;h3 id=&#34;-使用前准备&#34;&gt;⚙️ 使用前准备
-&lt;/h3&gt;&lt;p&gt;❌ &lt;strong&gt;不支持&lt;/strong&gt;：国行设备、打电话版本&lt;/p&gt;
-&lt;div style=&#34;margin-top: 1rem; display:flex; flex-direction:column; gap:1.5rem; line-height:1.6;&#34;&gt;
+&lt;/h3&gt;&lt;div style=&#34;margin-top: 1rem; display:flex; flex-direction:column; gap:1.5rem; line-height:1.6;&#34;&gt;
   &lt;div style=&#34;display:flex; align-items:flex-start; gap:0.5rem;&#34;&gt;
     &lt;span style=&#34;font-weight:bold; font-size:1.2rem; color:#3b82f6;&#34;&gt;1️⃣&lt;/span&gt;
     &lt;div&gt;&lt;strong&gt;安装工具：&lt;/strong&gt;下载爱思助手 → 工具箱 → 安装 &lt;strong&gt;iTunes &amp; 驱动&lt;/strong&gt;&lt;/div&gt;
@@ -41,7 +52,7 @@
   &lt;div style=&#34;display:flex; align-items:flex-start; gap:0.5rem;&#34;&gt;
     &lt;span style=&#34;font-weight:bold; font-size:1.2rem; color:#3b82f6;&#34;&gt;2️⃣&lt;/span&gt;
     &lt;div&gt;
-      &lt;strong&gt;下载固件：&lt;/strong&gt;iOS 镜像（18.6+ ～ 26.0）&lt;br&gt;
+      &lt;strong&gt;支持固件：&lt;/strong&gt;iOS 镜像（18.6+ ～ 26.1）&lt;br&gt;
       &lt;span style=&#34;margin-left:1.5rem; display:block;&#34;&gt;支持版本：iOS 26.0&lt;/span&gt;
       &lt;span style=&#34;margin-left:1.5rem; display:block; margin-top:0.3rem;&#34;&gt;⭐ 推荐：&lt;strong&gt;iOS 26 &lt;/strong&gt;&lt;/span&gt;
     &lt;/div&gt;
@@ -92,7 +103,7 @@
 &lt;div style=&#34;padding: 1.4rem; border-radius: 1rem; background: #f5f7fa; box-shadow: 0 4px 12px rgba(0,0,0,0.05); margin: 1.5rem 0;&#34;&gt;
 &lt;h3 id=&#34;ℹ-绕后说明&#34;&gt;ℹ️ 绕后说明
 &lt;/h3&gt;&lt;div style=&#34;display:grid; grid-template-columns:minmax(0, 1fr); gap:0.6rem; margin-top:0.5rem;&#34;&gt;
-&lt;div style=&#34;background:#fff; padding:0.8rem 1rem; border-left:4px solid #f87171; border-radius:0.6rem; box-shadow:0 2px 6px rgba(0,0,0,0.03);&#34;&gt;&lt;span style=&#34;color:#f87171;&#34;&gt;✅&lt;/span&gt; &lt;strong&gt;iCloud&amp;APPstore正常使用&lt;/strong&gt;&lt;/div&gt;
+&lt;div style=&#34;background:#fff; padding:0.8rem 1rem; border-left:4px solid #f87171; border-radius:0.6rem; box-shadow:0 2px 6px rgba(0,0,0,0.03);&#34;&gt;&lt;span style=&#34;color:#f87171;&#34;&gt;✅&lt;/span&gt; &lt;strong&gt;iCloud &amp; APPstore正常使用&lt;/strong&gt;&lt;/div&gt;
 &lt;div style=&#34;background:#fff; padding:0.8rem 1rem; border-left:4px solid #f87171; border-radius:0.6rem; box-shadow:0 2px 6px rgba(0,0,0,0.03);&#34;&gt;&lt;span style=&#34;color:#f87171;&#34;&gt;✅&lt;/span&gt; &lt;strong&gt;消息推送通知&lt;/strong&gt;&lt;/div&gt;
 &lt;div style=&#34;background:#fff; padding:0.8rem 1rem; border-left:4px solid #f87171; border-radius:0.6rem; box-shadow:0 2px 6px rgba(0,0,0,0.03);&#34;&gt;&lt;span style=&#34;color:#f87171;&#34;&gt;🔹&lt;/span&gt; &lt;strong&gt;不可刷机&lt;/strong&gt;&lt;/div&gt;
 &lt;div style=&#34;background:#fff; padding:0.8rem 1rem; border-left:4px solid #f87171; border-radius:0.6rem; box-shadow:0 2px 6px rgba(0,0,0,0.03);&#34;&gt;&lt;span style=&#34;color:#f87171;&#34;&gt;🔹&lt;/span&gt; &lt;strong&gt;不可还原设备&lt;/strong&gt;&lt;/div&gt;
