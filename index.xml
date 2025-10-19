@@ -25,7 +25,7 @@
 &lt;h3 id=&#34;-支持范围&#34;&gt;✅ 支持范围
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;iOS 固件&lt;/strong&gt;：18.6+ ～ 26.1&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;iOS 固件&lt;/strong&gt;：18.6+ ～ 26.01&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;iPhone&lt;/strong&gt;：XS ~ 17 Pro Max&lt;/p&gt;
@@ -43,7 +43,7 @@
 &lt;/div&gt;
 &lt;hr&gt;
 &lt;div style=&#34;padding: 1.4rem; border-radius: 1rem; background: #f5f7fa; box-shadow: 0 4px 12px rgba(0,0,0,0.06); margin: 1.5rem 0;&#34;&gt;
-&lt;h3 id=&#34;-使用前准备&#34;&gt;⚙️ 使用前准备
+&lt;h3 id=&#34;-使用前准备windows电脑需要先关闭防火墙和杀毒&#34;&gt;⚙️ 使用前准备（Windows电脑需要先关闭防火墙和杀毒）
 &lt;/h3&gt;&lt;div style=&#34;margin-top: 1rem; display:flex; flex-direction:column; gap:1.5rem; line-height:1.6;&#34;&gt;
   &lt;div style=&#34;display:flex; align-items:flex-start; gap:0.5rem;&#34;&gt;
     &lt;span style=&#34;font-weight:bold; font-size:1.2rem; color:#3b82f6;&#34;&gt;1️⃣&lt;/span&gt;
@@ -52,7 +52,7 @@
   &lt;div style=&#34;display:flex; align-items:flex-start; gap:0.5rem;&#34;&gt;
     &lt;span style=&#34;font-weight:bold; font-size:1.2rem; color:#3b82f6;&#34;&gt;2️⃣&lt;/span&gt;
     &lt;div&gt;
-      &lt;strong&gt;支持固件：&lt;/strong&gt;iOS 镜像（18.6+ ～ 26.1）&lt;br&gt;
+      &lt;strong&gt;支持固件：&lt;/strong&gt;iOS 镜像（18.6+ ～ 26.01）&lt;br&gt;
       &lt;span style=&#34;margin-left:1.5rem; display:block;&#34;&gt;支持版本：iOS 26.0&lt;/span&gt;
       &lt;span style=&#34;margin-left:1.5rem; display:block; margin-top:0.3rem;&#34;&gt;⭐ 推荐：&lt;strong&gt;iOS 26 &lt;/strong&gt;&lt;/span&gt;
     &lt;/div&gt;
@@ -87,7 +87,7 @@
   &lt;/div&gt;
   &lt;div style=&#34;display:flex; align-items:flex-start; gap:0.5rem;&#34;&gt;
     &lt;div style=&#34;flex-shrink:0; width:36px; height:36px; border-radius:50%; background:linear-gradient(135deg,#3b82f6,#60a5fa); color:#fff; display:flex; align-items:center; justify-content:center; font-weight:bold; font-size:1.2rem;&#34;&gt;4&lt;/div&gt;
-    &lt;div style=&#34;flex-grow:1; display:flex; align-items:center; gap:0.5rem;&#34;&gt;显示 &lt;strong&gt;Supported&lt;/strong&gt; → &lt;a href=&#34;https://qm.qq.com/cgi-bin/qm/qr?k=UR-0apQXIgRZMNVApVZ4eWwaflhWCPXO&#34; style=&#34;padding:0.5rem 1rem; background:#10b981; color:#fff; border-radius:0.5rem; text-decoration:none; font-weight:bold;&#34;&gt;购买注册码&lt;/a&gt;&lt;/div&gt;
+    &lt;div style=&#34;flex-grow:1; display:flex; align-items:center; gap:0.5rem;&#34;&gt;等待Checking完成显示 &lt;strong&gt;Supported&lt;/strong&gt; → &lt;a href=&#34;https://qm.qq.com/cgi-bin/qm/qr?k=UR-0apQXIgRZMNVApVZ4eWwaflhWCPXO&#34; style=&#34;padding:0.5rem 1rem; background:#10b981; color:#fff; border-radius:0.5rem; text-decoration:none; font-weight:bold;&#34;&gt;购买注册码&lt;/a&gt;&lt;/div&gt;
   &lt;/div&gt;
   &lt;div style=&#34;display:flex; align-items:flex-start; gap:0.5rem;&#34;&gt;
     &lt;div style=&#34;flex-shrink:0; width:36px; height:36px; border-radius:50%; background:linear-gradient(135deg,#3b82f6,#60a5fa); color:#fff; display:flex; align-items:center; justify-content:center; font-weight:bold; font-size:1.2rem;&#34;&gt;5&lt;/div&gt;
@@ -96,6 +96,10 @@
   &lt;div style=&#34;display:flex; align-items:flex-start; gap:0.5rem;&#34;&gt;
     &lt;div style=&#34;flex-shrink:0; width:36px; height:36px; border-radius:50%; background:linear-gradient(135deg,#3b82f6,#60a5fa); color:#fff; display:flex; align-items:center; justify-content:center; font-weight:bold; font-size:1.2rem;&#34;&gt;6&lt;/div&gt;
     &lt;div style=&#34;flex-grow:1;&#34;&gt;进度条完成 → 拔出设备 → 解锁成功 🎉&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;display:flex; align-items:flex-start; gap:0.5rem;&#34;&gt;
+    &lt;div style=&#34;flex-shrink:0; width:36px; height:36px; border-radius:50%; background:linear-gradient(135deg,#ef4444,#f87171); color:#fff; display:flex; align-items:center; justify-content:center; font-weight:bold; font-size:1.2rem;&#34;&gt;注意&lt;/div&gt;
+    &lt;div style=&#34;flex-grow:1;&#34;&gt;如在激活过程中弹窗错误，从第5步重复操作，多次尝试&lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
