@@ -1,31 +1,10 @@
-# 1. 配置图片存放位置
-media:
-  input: static/images
-  output: /images
-
-# 2. 配置内容管理
 content:
   - name: posts
-    label: 文章管理
+    label: 网页预览修改
     type: collection
-    path: post       # 如果你的文章在 content/blog，请改成 content/blog
-    format: md
-    # 这里的 fields 对应你 Markdown 开头的 Front Matter 参数
+    path: post       # 对应你截图里的 post 文件夹
+    format: html     # 因为你现在仓库里全是 html
     fields:
-      - name: title
-        label: 标题
-        type: string
-        required: true
-      - name: date
-        label: 日期
-        type: date
-      - name: draft
-        label: 是否为草稿
-        type: boolean
-        default: false
-      - name: description
-        label: 文章摘要
-        type: string
       - name: body
-        label: 正文内容
-        type: rich-text       # 这会让后台出现可视化编辑器
+        label: 内容
+        type: rich-text
